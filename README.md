@@ -21,3 +21,9 @@ Start Dev Server
 ```bash
 npm start
 ```
+
+Production Build 
+```bash
+npm run build
+```
+(default build path ./dist);
