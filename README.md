@@ -1,10 +1,10 @@
 ## React Boilerplate
 
 This boilerplate use: 
--Parcel as bundler 
--React Semantic UI as UI framework 
--Redux as state manager
--Jest to test all the stuff!
+* Parcel as bundler 
+* React Semantic UI as UI framework 
+* Redux as state manager
+* Jest to test all the stuff!
 
 ## Usage
 
