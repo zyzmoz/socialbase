@@ -1,3 +1,52 @@
 .padding {
   padding: 5px;
 }
+
+.ui.teal {
+  background-color: #5d9cec !important;
+}
+
+.auth-form {  
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -175px 0 0 -175px; 
+  border: 1px solid #E6E9ED; 
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px #AAB2BD;
+  overflow: hidden;
+}
+
+.wrapper::after, .wrapper::before {
+  display: table;
+  content: ' ';
+}
+
+.wrapper::after {
+  clear: both;
+}
+
+.switch{
+  width: 100%;
+}
+.switch-item {
+  cursor: pointer;
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+  color: #5d9cec;
+}
+
+.switch-item:hover {
+  
+}
+
+.switch-item.active {
+  background-color: #5d9cec;
+  color: #f2f2f2;
+}
+
